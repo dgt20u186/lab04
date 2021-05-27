@@ -1,0 +1,3 @@
+/home/dgt20u186/dgt20u186/workspace/projects/lab04/_build/CMakeFiles/rebuild_cache.dir
+/home/dgt20u186/dgt20u186/workspace/projects/lab04/_build/CMakeFiles/edit_cache.dir
+/home/dgt20u186/dgt20u186/workspace/projects/lab04/_build/CMakeFiles/print.dir
