@@ -1,0 +1,3 @@
+/home/dgt20u186/dgt20u186/workspace/projects/lab04/CMakeFiles/rebuild_cache.dir
+/home/dgt20u186/dgt20u186/workspace/projects/lab04/CMakeFiles/edit_cache.dir
+/home/dgt20u186/dgt20u186/workspace/projects/lab04/CMakeFiles/formatter.dir
