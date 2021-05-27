@@ -8,3 +8,8 @@ add_executable(example1 ${CMAKE_CURRENT_SOURCE_DIR}/examples/example1.cpp)
 add_executable(example2 ${CMAKE_CURRENT_SOURCE_DIR}/examples/example2.cpp)
 target_link_libraries(example1 print)
 target_link_libraries(example2 print)
+install(TARGETS print
+    EXPORT print-config
+    ARCHIVE DESTINATION lib
+    LIBRARY DESTINATION lib
+)
