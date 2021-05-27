@@ -1,3 +1,4 @@
+[![Build Status](https://www.travis-ci.com/dgt20u186/lab04.svg?branch=master)](https://www.travis-ci.com/dgt20u186/lab04)
 <фрагмент_вставки_значка>
 <фрагмент_вставки_значка>
 <фрагмент_вставки_значка>
