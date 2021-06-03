@@ -1,5 +1,4 @@
-[![Build Status](https://www.travis-ci.com/dgt20u186/lab04.svg?branch=master)](https://www.travis-ci.com/dgt20u186/lab04)
-<фрагмент_вставки_значка>
+[![Build Status](https://travis-ci.org/dgt20u186/lab04.svg?branch=master)](https://travis-ci.org/dgt20u186/lab04)
 # lab03
 ## Далгатов Гитиномагомед
 **Задание 1.** 
